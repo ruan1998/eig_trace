@@ -3,7 +3,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
 import dash_daq as daq
-from flask_caching import Cache
+# from flask_caching import Cache
 import plotly.graph_objs as go
 from datetime import datetime
 import pandas as pd
